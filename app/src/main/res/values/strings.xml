@@ -1,5 +1,14 @@
 <resources>
-    <string name="app_name">new-retirement-age-calculator</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">新退休年龄计算器</string>
+    <string name="type">类型：</string>
     <string name="action_settings">Settings</string>
+    <string name="radiomale">男性</string>
+    <string name="radiofemalecommon">女职工</string>
+    <string name="radiofemaleleader">女干部</string>
+    <string name="yearOfbirth">出生年份：</string>
+    <string name="hint_yearOfbirth">1980</string>
+    <string name="caculate">计算</string>
+    <string name="hint_input_yearofbirth">请输入出生年份</string>
+    <string name="caution">注：新退休年龄的上限是最大退休年龄，需要等待最终的延迟退休方案才能确定。</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4784160492252285/8592850050</string>
 </resources>
