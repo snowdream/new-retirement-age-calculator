@@ -48,7 +48,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-[0]:http://snowdream.github.io/
-[1]:http://hexo.io/
-[2]:https://github.com/wuchong/jacman
